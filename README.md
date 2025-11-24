@@ -122,4 +122,3 @@ Student — BS Artificial Intelligence, Aror University, Sukkur, Pakistan
 
 If you like this project, please star the repo and share it with others. Your support helps me keep improving this project — thank you!
 
-License: (Add your preferred license here — e.g., MIT)
